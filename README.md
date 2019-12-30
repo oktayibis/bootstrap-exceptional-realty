@@ -1,7 +1,3 @@
-# Bootstrap HTML Code Along Repository
+# This is the example website using bootstrap.
 
-## Overview
-
-This lesson is intended to be used in the Bootstrap section of this course.
-Fork and close this repository so you can follow along in the provided videos
-and preserve your work from each lesson.
+More information about using bootstrap can be found here: [getbootstrap.com](https://getbootstrap.com) 
